@@ -9,7 +9,7 @@ const AppComponent = (props) => {
         <div className="component-frame34549">
           <div className="component-frame206808">
             <span className="component-text MobileH2">
-              How to become a Manager? 999999
+              How to become a Manager? 88888888
             </span>
             <span className="component-text01 ParagraphP16(default)">
               <span>
