@@ -34,6 +34,7 @@
   --dl-space-space-fiveunits: 80px;
   --dl-space-space-fourunits: 64px;
   --dl-space-space-threeunits: 48px;
+  --dl-color-default-bluestatic: rgba(11, 113, 217, 1);
   --dl-space-space-oneandhalfunits: 24px;
 }
 .button {

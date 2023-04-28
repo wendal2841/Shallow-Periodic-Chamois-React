@@ -465,6 +465,11 @@
   margin-bottom: 0;
   text-decoration: none;
 }
+@media(max-width: 991px) {
+  .component-frame-howmuchdoesamanagermakein-new-york-usa {
+    width: 100%;
+  }
+}
 @media(max-width: 479px) {
   .component-container {
     height: auto;
