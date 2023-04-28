@@ -45,7 +45,7 @@
   margin-right: 0;
   margin-bottom: 8px;
 }
-.component-text02 {
+.component-text01 {
   color: var(--dl-color-gray-graydark);
   height: auto;
   align-self: stretch;
@@ -63,7 +63,7 @@
   margin-bottom: 24px;
   flex-direction: column;
 }
-.component-text04 {
+.component-text03 {
   color: var(--dl-color-gray-black);
   height: auto;
   align-self: stretch;
@@ -89,7 +89,7 @@
   border-color: transparent;
   margin-bottom: 12px;
 }
-.component-text06 {
+.component-text05 {
   color: var(--dl-color-gray-graydark);
   width: 24px;
   height: auto;
@@ -105,7 +105,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.component-text08 {
+.component-text07 {
   color: var(--dl-color-gray-graydark);
   height: auto;
   flex-grow: 1;
@@ -124,7 +124,7 @@
   border-color: transparent;
   margin-bottom: 12px;
 }
-.component-text10 {
+.component-text09 {
   color: var(--dl-color-gray-graydark);
   width: 24px;
   height: auto;
@@ -140,7 +140,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.component-text12 {
+.component-text11 {
   color: var(--dl-color-gray-graydark);
   height: auto;
   flex-grow: 1;
@@ -159,7 +159,7 @@
   border-color: transparent;
   margin-bottom: 12px;
 }
-.component-text14 {
+.component-text13 {
   color: var(--dl-color-gray-graydark);
   width: 24px;
   height: auto;
@@ -175,7 +175,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.component-text16 {
+.component-text15 {
   color: var(--dl-color-gray-graydark);
   height: auto;
   flex-grow: 1;
@@ -194,7 +194,7 @@
   border-color: transparent;
   margin-bottom: 12px;
 }
-.component-text18 {
+.component-text17 {
   color: var(--dl-color-gray-graydark);
   width: 24px;
   height: auto;
@@ -210,7 +210,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.component-text20 {
+.component-text19 {
   color: var(--dl-color-gray-graydark);
   height: auto;
   flex-grow: 1;
@@ -228,7 +228,7 @@
   flex-shrink: 0;
   border-color: transparent;
 }
-.component-text22 {
+.component-text21 {
   color: var(--dl-color-gray-graydark);
   width: 24px;
   height: auto;
@@ -244,7 +244,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.component-text24 {
+.component-text23 {
   color: var(--dl-color-gray-graydark);
   height: auto;
   flex-grow: 1;
@@ -262,7 +262,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.component-text26 {
+.component-text25 {
   color: var(--dl-color-gray-black);
   height: auto;
   font-size: 18px;
@@ -294,7 +294,7 @@
   border-color: transparent;
   margin-bottom: 12px;
 }
-.component-text28 {
+.component-text27 {
   color: var(--dl-color-gray-graydark);
   width: 24px;
   height: auto;
@@ -310,7 +310,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.component-text30 {
+.component-text29 {
   color: var(--dl-color-gray-graydark);
   height: auto;
   flex-grow: 1;
@@ -329,7 +329,7 @@
   border-color: transparent;
   margin-bottom: 12px;
 }
-.component-text32 {
+.component-text31 {
   color: var(--dl-color-gray-graydark);
   width: 24px;
   height: auto;
@@ -345,7 +345,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.component-text34 {
+.component-text33 {
   color: var(--dl-color-gray-graydark);
   height: auto;
   flex-grow: 1;
@@ -364,7 +364,7 @@
   border-color: transparent;
   margin-bottom: 12px;
 }
-.component-text36 {
+.component-text35 {
   color: var(--dl-color-gray-graydark);
   width: 24px;
   height: auto;
@@ -380,7 +380,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.component-text38 {
+.component-text37 {
   color: var(--dl-color-gray-graydark);
   height: auto;
   flex-grow: 1;
@@ -399,7 +399,7 @@
   border-color: transparent;
   margin-bottom: 12px;
 }
-.component-text40 {
+.component-text39 {
   color: var(--dl-color-gray-graydark);
   width: 24px;
   height: auto;
@@ -415,7 +415,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.component-text42 {
+.component-text41 {
   color: var(--dl-color-gray-graydark);
   height: auto;
   flex-grow: 1;
@@ -433,7 +433,7 @@
   flex-shrink: 0;
   border-color: transparent;
 }
-.component-text44 {
+.component-text43 {
   color: var(--dl-color-gray-graydark);
   width: 24px;
   height: auto;
@@ -449,7 +449,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.component-text46 {
+.component-text45 {
   color: var(--dl-color-gray-graydark);
   height: auto;
   flex-grow: 1;
